@@ -1,5 +1,5 @@
 # Hyreen-Alice-Portfolio
-# 👋 Hi, I'm Hyreen Alice  
+# Hi, I'm Hyreen Alice  
 
 
 I am a **Database Administrator and Automation Specialist** with over 5 years of experience in **database management, performance tuning, and data automation**. My expertise lies in **Oracle, SQL Server, DB2**, and cloud platforms like **AWS and Databricks**. I am passionate about leveraging **data-driven decision-making, automation, and optimization** to improve efficiency and scalability.  
@@ -36,5 +36,5 @@ I am a **Database Administrator and Automation Specialist** with over 5 years of
 
 ## 🌎 Let's Connect:
 - **LinkedIn**: [Hyreen Alice](https://www.linkedin.com/in/hyreenalice)  
-- **Portfolio**: [website.com](https://github.com/Hyreen-Alice/Hyreen-Alice-Portfolio)   
+- **Portfolio**:(https://github.com/Hyreen-Alice/Hyreen-Alice-Portfolio)   
 - **Email**: hyreenalice2020@gmail.com  
