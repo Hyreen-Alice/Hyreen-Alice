@@ -36,5 +36,5 @@ I am a **Database Administrator and Automation Specialist** with over 5 years of
 
 ## 🌎 Let's Connect:
 - **LinkedIn**: [Hyreen Alice](https://www.linkedin.com/in/hyreenalice)  
-- **Portfolio**:(https://github.com/Hyreen-Alice/Hyreen-Alice-Portfolio)   
+- **Portfolio**:(https://hyreen-alice.github.io/Hyreen-Alice/)   
 - **Email**: hyreenalice2020@gmail.com  
